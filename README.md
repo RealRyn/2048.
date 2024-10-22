@@ -1,1 +1,3 @@
-A basic 2048 project done in C#.
+2048, on C#.
+
+pre-release.
